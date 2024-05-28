@@ -1,0 +1,8 @@
+.hero-heading{
+   text-transform: capitalize;
+   font-size: 80px;
+}
+
+#vert-text{
+    writing-mode: vertical-rl;
+}
